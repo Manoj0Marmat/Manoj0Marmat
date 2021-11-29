@@ -8,7 +8,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manoj0Marmat&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&count_private=true&show_icons=true&theme=midnight-purple)
 
 
 
