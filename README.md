@@ -1,13 +1,30 @@
-- 👋 Hi, I’m @Manoj0Marmat
-- 👀 I’m interested in Front-End development 
-- 🌱 I’m currently learning React js, Gatsby js ...
-- 💞️ I’m looking for jobs 
+
+<img src=images/header.svg alt="Hi there! How are you doing?"/>
+
+- 👋 Hi, I’m @Manoj Marmat
+- 👀 I’m interested in Coding, Gaming and Dreaming 
+- 🌱 I’m a Student
+- 💞️ Likes Alone Vibes 
 - 📫 How to reach me manojmarmat762000@gmail.com
+- 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=blood-dark)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&count_private=true)
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat-square&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/manoj-marmat-974027190/)
+[![](https://img.shields.io/badge/-@Manoj_Marmat-%23181717?style=flat-square&logo=github)](https://github.com/manoj0marmat)
+
+<!-- <p align="center">
+<img src=images/stat.svg alt="image"/>
+</p> -->
+
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=gotham"/></td></tr></table>
+
+<hr>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=blood-dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj0Marmat&layout=compact&theme=dracula&langs_count=5)](https://github.com/Manoj0Marmat/github-readme-stats) -->
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manoj0Marmat&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![Manoj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Manoj0Marmat&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 
 
