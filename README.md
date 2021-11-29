@@ -1,14 +1,11 @@
 
 <!-- <img src=images/header.svg alt="Hi there! How are you doing?"/> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CFF05&multiline=true&height=400&lines=Final+Year+Student%2C;Software+Engineer+Intern;%26;Freelancer+dedicated+to+improving;skills+through+hands-on+learning;and;development+work.;Adept+at+using+HTML5%2C+JavaScript%2C+React+js+and+Python+;to+produce+clean+code.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232CFF05&multiline=true&height=60&lines=Final+Year+Student%2C;____Manoj+Marmat.)](https://git.io/typing-svg)
 - 👋 Hi, I’m @Manoj Marmat
 - 👀 I’m interested in Coding, Gaming and Dreaming 
 - 🌱 I’m a Student
 - 💞️ Likes Alone Vibes 
 - 📫 How to reach me manojmarmat762000@gmail.com
-- 
-
 [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat-square&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/manoj-marmat-974027190/)
 [![](https://img.shields.io/badge/-@Manoj_Marmat-%23181717?style=flat-square&logo=github)](https://github.com/manoj0marmat)
 
