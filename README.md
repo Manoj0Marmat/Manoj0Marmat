@@ -4,7 +4,7 @@
 - 💞️ I’m looking for jobs 
 - 📫 How to reach me manojmarmat762000@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manoj0marmat&theme=blood-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=blood-dark)](https://git.io/streak-stats)
 
 
 <!--
