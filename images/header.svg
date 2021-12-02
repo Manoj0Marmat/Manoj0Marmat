@@ -33,7 +33,7 @@
     .wave {
       animation: wave 3s linear;
       animation-iteration-count:infinite;
-      fill: #4478e3;  
+      fill: #c90cff;  
     }
     
     .wave:hover {
@@ -45,10 +45,10 @@
     }
     
     .drop {
-      fill: #4478e3;
+      fill: #c90cff;
       xfill: #99000055;
       animation: drop 8.2s linear infinite normal;
-      stroke: #4478e3;
+      stroke: #c90cff;
       stroke-width: 0.5;
       transform: translateY(25px) ;
       transform-box: fill-box;
