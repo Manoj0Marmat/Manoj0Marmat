@@ -6,8 +6,11 @@
 - 🌱 I’m a Student ✨
 - 💞️ Alone Vibes ✨
 - 📫 How to reach me manojmarmat762000@gmail.com
+
 [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat-square&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/manoj-marmat-974027190/)
-[![](https://img.shields.io/badge/-@Manoj_Marmat-%23181717?style=flat-square&logo=github)](https://github.com/manoj0marmat)
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/m.a.n.o.j_m.a.r.m.a.t/)
+
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01e61ea9e0fd2c4048)
 
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&show_icons=true&theme=outrun" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=synthwave"/></td></tr></table>
