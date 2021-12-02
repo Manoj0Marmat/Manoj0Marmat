@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-@Manoj_Marmat-%23181717?style=flat-square&logo=github)](https://github.com/manoj0marmat)
 
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&show_icons=true&theme=synthwave" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=synthwave"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&show_icons=true&theme=outrun" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=synthwave"/></td></tr></table>
 
 <hr>
 
