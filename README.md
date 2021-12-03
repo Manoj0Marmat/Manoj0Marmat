@@ -16,6 +16,11 @@
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&show_icons=true&theme=outrun" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=midnight-purple"/></td></tr></table>
 
+
+<a href="https://github.com/Manoj0Marmat"><img src="https://github.com/Manoj0Marmat/Manoj0Marmat/blob/main/images/stat.svg" alt="Avinal WakaTime Activity" align=center/></a>
+
+
+
 <hr>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=blood-dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj0Marmat&layout=compact&theme=dracula&langs_count=5)](https://github.com/Manoj0Marmat/github-readme-stats) -->
