@@ -6,7 +6,7 @@
 
 
 - 👋 Welcome,
-- 💻 call me <b>Manoj</b>
+- 💻 Call me <b>Manoj</b>
 - 💞️ Coder, Gamer and Dreamer ✨
 - 🌱 Student ✨
 - 👀 Looking for Job
