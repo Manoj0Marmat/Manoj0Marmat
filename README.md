@@ -10,16 +10,16 @@
 - 💞️ Coder, Gamer and Dreamer ✨
 - 🌱 Student ✨
 - 👀 Looking for Job/Internship
-- 5 ⭐ | c++ [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat&logo=hackerrank&color=blueviolet)](https://www.hackerrank.com/manojmarmat76202)| 2 ⭐ [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat&logo=codechef&color=blueviolet)](https://www.codechef.com/users/li_o) 
+- 5 ⭐ | c++ [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat&logo=hackerrank&color=darkgreen)](https://www.hackerrank.com/manojmarmat76202) |  2 ⭐ [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat&logo=codechef&color=darkgreen)](https://www.codechef.com/users/li_o) | 1 ⭐ [![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=flat&logo=leetcode&color=darkgreen)](https://leetcode.com/Li_0/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Manoj0Marmat&column=4&row=1)](https://github.com/Manoj0Marmat)
 
 - 📫 reach me  👇
 
-[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=blueviolet&labelColor=black)](https://www.linkedin.com/in/manoj-marmat-974027190/)
-[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=instagram&color=blueviolet&labelColor=black)](https://www.instagram.com/m.a.n.o.j_m.a.r.m.a.t/)
-[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=upwork&color=blueviolet&labelColor=black)](https://www.upwork.com/freelancers/~01e61ea9e0fd2c4048)
-[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=gmail&color=blueviolet&labelColor=black)](https://www.manojmarmat762000@gmail.com)
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b5&color=darkgreen&labelColor=black)](https://www.linkedin.com/in/manoj-marmat-974027190/)
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=instagram&color=darkgreen&labelColor=black)](https://www.instagram.com/m.a.n.o.j_m.a.r.m.a.t/)
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=upwork&color=darkgreen&labelColor=black)](https://www.upwork.com/freelancers/~01e61ea9e0fd2c4048)
+[![](https://img.shields.io/badge/Manoj_Marmat-%23181717?style=for-the-badge&logo=gmail&color=darkgreen&labelColor=black)](https://www.manojmarmat762000@gmail.com)
 
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Manoj0Marmat&show_icons=true&theme=outrun" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=Manoj0Marmat&theme=midnight-purple"/></td></tr></table>
