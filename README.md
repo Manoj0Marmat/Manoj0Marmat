@@ -1,9 +1,4 @@
-<img src=images/header.svg alt="Hi there! How are you doing?"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C90CFF&multiline=true&height=60&lines=Final+Year+Student%2C;____"Self-Learner".)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=Manoj0Marmat&color=blueviolet&style=plastic)
-
-
+<img src=images/blog.prototypr.io_.gif alt="Hi there! How are you doing?"/>
 
 - 👋 Welcome,
 - 💻 <b style="color:red;"><i>Manoj Dilip Marmat</i></b>
