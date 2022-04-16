@@ -1,4 +1,4 @@
-<img src=images/blog.prototypr.io_.gif alt="Hi there! How are you doing?"/>
+<img src=images/giphy.gif alt="Hi there! How are you doing?"/>
 
 - 👋 Welcome,
 - 💻 <b style="color:red;"><i>Manoj Dilip Marmat</i></b>
